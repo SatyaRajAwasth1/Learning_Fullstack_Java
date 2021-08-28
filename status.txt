@@ -1,0 +1,3 @@
+HIi; WELCOM (wlcm commit from git bash)
+  For being a well structured fullstack developer it needs patientce, practice and lose something 
+   // i am doing this commit in 12:09 AM 8/29/2021 
